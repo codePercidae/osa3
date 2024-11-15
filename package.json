@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/codePercidae/fullstack_Osa3/issues"
   },
-  "homepage": "https://github.com/codePercidae/fullstack_Osa3#readme"
+  "homepage": "https://github.com/codePercidae/fullstack_Osa3#readme",
+  "dependencies": {
+    "exrpess": "^0.0.1-security"
+  }
 }
