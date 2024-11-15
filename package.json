@@ -1,0 +1,20 @@
+{
+  "name": "phonebackend",
+  "version": "0.0.1",
+  "description": "Backend for phonebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo  \"Error: npo test spesified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codePercidae/fullstack_Osa3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codePercidae/fullstack_Osa3/issues"
+  },
+  "homepage": "https://github.com/codePercidae/fullstack_Osa3#readme"
+}
